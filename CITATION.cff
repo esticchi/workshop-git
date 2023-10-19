@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SOFTWARE1
+message: high performance software to do some stuff
+type: software
+authors:
+  - given-names: Emanuele
+    family-names: Sticchi
+    email: e.sticchi@tudelft.nl
+    affiliation: TU DElft
+    orcid: 'https://orcid.org/2323-4323-2342-4323'
+repository-code: 'https://github.com/esticchi/workshop-git'
+abstract: Git workshop repsitory to learn how to use Git
+keywords:
+  - github
+  - git
+  - software development
+license: MIT
+date-released: '2023-10-19'
+
+
